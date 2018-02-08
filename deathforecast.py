@@ -1,8 +1,8 @@
 #-------------------------------------------------------------------------------
 # userName:        module1
-# Purpose:
+# Purpose:     To forcast how you will die today
 #
-# Author:      tolon
+# Author:      Zoe Kaufman
 #
 # Created:     10/02/2017
 
